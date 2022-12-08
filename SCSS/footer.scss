@@ -1,0 +1,26 @@
+footer {
+    max-width: 479px;
+    margin: 0 auto;
+    .text-center {
+        display: block;
+        text-align: center;
+        padding: 5px 0;
+    }
+    .footer-img {
+        box-shadow: none;
+    }
+}
+.img-inst {
+    width: 15%;
+    box-shadow: none;
+}
+.img-messenger {
+    width: 70%;
+    height: auto;
+    margin: 10px auto;
+    box-shadow: none;
+    border-radius: 29px;
+  }
+  .footer-img {
+    margin-top: 100px;
+  }
